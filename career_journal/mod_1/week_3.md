@@ -3,7 +3,7 @@ Ideas here are adapted from [Atomic Habits by James Clear](https://bookshop.org/
 
 **Habits of a Software Developer**
 * What do you think are the traits of a good software developer?
-Someone who could explain code well - uses the proper termonology/is able to break it down and understandable for someone who doesn't necessarily understand programming. Remembers to use TDD. Remembers to make adds/commits regularly. Can work anywhere. Is able to work efficiently with someone over the internet/is not in the same location as you.
+Someone who could explain code well - uses the proper terminology/is able to break it down and understandable for someone who doesn't necessarily understand programming. Remembers to use TDD. Remembers to make adds/commits regularly. Can work anywhere. Is able to work efficiently with someone over the internet/is not in the same location as you.
 
 * What are they like in the workplace? What would you as a co-worker think of this person?
 They should be reliable and capable of doing their work. They should be friendly and open to helping other on their code or are able to explain to others about their code. Someone who can communicate well.
@@ -12,7 +12,7 @@ They should be reliable and capable of doing their work. They should be friendly
 They should rehearse explaining the code to themselves, and be diligent about their adds/commits. This way their code is easier to understand and follow. Become very detail oriented.
 
 * Who do you want to be as a software developer? What kind of behaviors do you already have in place to be that person? What behaviors would you need to put into place? How will you do that?
-I would like to be a software developer that is more commuicative online. I feel like I have a very easy time when it comes to physical interactions or when it comes to video calls. But, I have a really hard time when it comes to just communicating with someone via text, or just working with someone on a project and only interacting through the comments on git. I would like to be better at that. I started by asking my partner if we could just take small "hw" chunks of our code that we could do alone and we'll go ahead and push those changes so we can get used to that. I have also been trying to remember to add and commit more often just out of habit able everything that I type.
+I would like to be a software developer that is more communicative online. I feel like I have a very easy time when it comes to physical interactions or when it comes to video calls. But, I have a really hard time when it comes to just communicating with someone via text, or just working with someone on a project and only interacting through the comments on git. I would like to be better at that. I started by asking my partner if we could just take small "hw" chunks of our code that we could do alone and we'll go ahead and push those changes so we can get used to that. I have also been trying to remember to add and commit more often just out of habit able everything that I type.
 
 **Working on the 1st Law of Behavior Change: Make it Obvious**
 * Bring self-awareness to your current habits by making a Habits Scorecard. Make a list of your daily habits (examples: wake up, turn off alarm, check phone, etc.) as a way to bring awareness to what you do. Then, decide how effective that habit is for you and your goal of becoming a software developer. Put a + next to habits that are effective; put a - next to habits that are not effective; put a = next to habits that are neutral.
@@ -32,7 +32,7 @@ bad habits:
 Checking phone during class -
 Checking slack during class a
 Not taking breaks -
-Not taking lunch/trying to work through unch -
+Not taking lunch/trying to work through lunch -
 slouching when I'm sitting and working -
 
 * Pick 1 new habit you'd like to build and create an implementation intention following this template: "I will [BEHAVIOR] at [TIME] in [LOCATION]." Then, stack the habit onto something you already do: "After [CURRENT HABIT], I will [NEW HABIT]." (Hint: make this highly specific and immediately actionable)

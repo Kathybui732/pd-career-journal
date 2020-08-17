@@ -16,7 +16,7 @@
     * What activities do you do that bring you joy throughout an average week?
         * During the winter I love to go snowboarding/skiing, I love winter sports, so, just by being able to look forward to doing those things over the weekend makes me push through the week better. I don't let the stresses of the week get to me as easily. I find joy in my morning coffee, so, that always helps with calming the negativities of waking up in the morning. I like playing games and playing with my pets.
     * In what ways could you make a small change to bring more joy into your life?
-        * I think the biggest things you can do is to remind yourself to focus on the positive things. I personally find it really stressful to have to cook everyday, so, I started meal prepping on sundays, so throughout the week when I'm in class, I don't have to worry about food. It's jsut small preventative things that are helpul and reduce the stress which in turn brings more joy to my life.
+        * I think the biggest things you can do is to remind yourself to focus on the positive things. I personally find it really stressful to have to cook everyday, so, I started meal prepping on Sundays, so throughout the week when I'm in class, I don't have to worry about food. It's just small preventative things that are helpful and reduce the stress which in turn brings more joy to my life.
 * Love: sense of connection; who are the people who matter in your life and how is love flowing to and from you and them?
     * How does love currently show up in your life?
         * The support from those around me has been the biggest representation of love in my life. Just those around me being patient and considerate of what I'm going through right now has been very appreciated.
@@ -29,7 +29,7 @@
 
 2. Define your needs, problem, and insights:
 * Based on what you wrote about above and your group conversation, what problems have you identified that you'd like to design solutions for?
-    * I think being able to care for others is a problem that I am currently struggling with. But, I keep telling yself that this is just temporary and that thigns will return back to normal once this bootcamp is over.
+    * I think being able to care for others is a problem that I am currently struggling with. But, I keep telling myself that this is just temporary and that things will return back to normal once this bootcamp is over.
 * What do you already about what you want for your career? What do you still need to find out?
     * I know that I want to do something in tech, but what that entails is still blurry to me.
 * Who or what do you want to grow into by the end of the Turing program?
@@ -41,7 +41,7 @@
 * What steps could you take to challenge those assumptions and find more facts to answer the question of what developers do?
     * google, asked mentors, asked instructors.
 * In addition to what a typical software developer life could look like, what do you want yours to include?
-    * you cuold be an instructor in software development. YOu could be trying to create diversity in software. You could be a consultant that knows the code of a softward, but are in charge or selling/being knowledgeable about the software.
+    * you could be an instructor in software development. You could be trying to create diversity in software. You could be a consultant that knows the code of a software, but are in charge or selling/being knowledgeable about the software.
 
 4. Prototype -- start creating solutions:
 * What is the basic threshold that your new career must meet after Turing?
@@ -53,4 +53,4 @@
 
 5. Test –- solutions:
 * Based on this week of reflections, write out your vision statement for your career:
-    * My vision statement for my career as of right now is still the same.  My mission in life is to be able to do something that feels fullfilling. I want to be able to feel inspired, passionate and forever curious every day of my life. Whether that is fullfilled by a career or a hobby doesn't matter to me. I want my mind as well as my body to feel happy. I want to feel comfortable and proud of the skin that I wear. I want to be able to create something that the world can use. I want to be able to challenge any notion that a woman of color can't be competitive in a field that predominantly filled with white males. I would like to one day be apart of creating a game or a mod that someone can use for a game. I want to be able to bring some good into the world.
+    * My vision statement for my career as of right now is still the same.  My mission in life is to be able to do something that feels fulfilling. I want to be able to feel inspired, passionate and forever curious every day of my life. Whether that is fulfilled by a career or a hobby doesn't matter to me. I want my mind as well as my body to feel happy. I want to feel comfortable and proud of the skin that I wear. I want to be able to create something that the world can use. I want to be able to challenge any notion that a woman of color can't be competitive in a field that predominantly filled with white males. I would like to one day be apart of creating a game or a mod that someone can use for a game. I want to be able to bring some good into the world.
