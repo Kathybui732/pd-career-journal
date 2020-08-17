@@ -1,0 +1,39 @@
+### Mod 1 Week 4: Creating a Vision, Part I <a name="week-4"></a>
+1. Habits Reflection:
+* How have you seen yourself become more aware of your habits? Have you tried implementing anything new? What have the results been? Yes, I have been noticing my habits more often. The awareness of the habits draws more attention for me at least that it is happening. I have tried to keep in mind the physical barriers of my apt by trying to keep "work" inside the office and not take that outside of there just to help my mindset. I think it has worked so far because I have been able to rest more as soon as I leave the room. It has made falling asleep easier just because I'm not bringing work into bed which tends to keep up at night. It also helps because I leave my phone outside of this room, so I will only look at it when I have a break to walk outside to look at it. It kills two birds with one stone because I have been limiting my distractions in class and it reminds me to get up and walk around during POM breaks because I want to go check my phone.
+
+2. Start Where You Are (Empathize with the user -- *you*)
+* Health: how you answer “how are you”; intersection of physical, mental, and emotional health
+    * How would you rate your overall health on a scale of 1-5? How do you currently make time for activities associated with your health? What is a small change you could make here to readjust your health ratings? I would say that my health rating is at a 3. Mentally and emotionally, I think I would rate this at a 5. However, physically, I have been getting a lot of back pain and neck pain. And I'm not sure why that it. I readjusted my desk to be more ergonomic, however, my back seems to still feel fatigue/sore. I have been trying to get up more and moving in between breaks to try to keep my body active and not sitting still all day.
+
+* Work: what you do
+    * Make a short list of all the ways you work right now; How much value do each of those things bring to your life? How are those activities purposeful for you? Turing is my work. It is bringing a lot of value to me right now. I really like all the things I am creating and it brings me a lot of joy that I am learning so much. They are purposeful to me because I am working toward become a great software developer, and I'm trying to put in 100% effort to achieve that. And that means a lot to me.
+
+* Play: what brings you joy? Think about joy just for the pure sake of doing it; everyone benefits from this kind of play
+    * What activities do you do that bring you joy throughout an average week? In what ways could you make a small change to bring more joy into your life? Small moments of joy: 1. playing with my rabbits during breaks 2. playing stardew valley at night 3. going through old ruby exercises and getting that rainbow of dots 4. spending time with my boyfriend
+    I think it's helpful to actually take breaks from coding. Coding is fun to me, but when you're doing it all day everyday, it starts losing its appeal. So remembering to take breask from it and do other things that are relaxing is necessary. Trying different small things to see what brings you the little joys, because sometimes you don't know what those are.
+
+* Love: sense of connection; who are the people who matter in your life and how is love flowing to and from you and them?
+    * How does love currently show up in your life? How do you show love to others right now? What adjustments would you like to make in this area? Making time for other people right now is necessary. I think my life has been so engulped in coding that I forgot to pay attention to the people around me. I think I need to find more time for them. Or to remind them that they are in the back of my mind and although I don't have a lot of time to give them now, that they should try to be understanding for my situation and that this isn't permanent. The support from the people around me for what I'm doing makes me feel loved right now.
+
+* Looking back at the 4 areas, do any problems emerge that you want to begin designing solutions for? I have been very neglectful toward others during the course of this journey. I have been selfish in the sense that 90% of my time has been placed toward studying and learning and then the last 10% has been placed toward me and my sanity. So, I have been putting myself first and neglecting that "love" aspect by not paying as much attention to those around me. And although I want to allot more time towards others, I also think that this is only temporary. And my solution is to ask everyone around me to be understanding that this is only temporary and I'm working on me right now to become a better person for all of us.
+
+3. Define your needs, problem, and insights:
+
+Based on what you wrote about above and your group conversation, what problems have you identified that you'd like to design solutions for? What do you already know about what you want for your career? What do you still need to find out? Who or what do you want to grow into by the end of the Turing program?
+What I know about my career is that I want to be able to create something. I want to problem solve and use my skills to generate solutions for problems. How that is applied is where I'm a little confused. I don't exactly know where I am going with this or what is going to come from all of this. I don't know the exact job is that I want to be doing after all of this. I think that's really just trial and error once I start getting jobs. I just want to learn a new skill and be able to master it throughout the course of Turing.
+
+
+4.  Ideate -- challenge assumptions
+
+When you discussed software developers with your small group on Monday, what assumptions came up about what software developers actually do? What steps could you take to challenge those assumptions and find more facts to answer the question of what developers do? In addition to what a typical software developer life could look like, what do you want yours to include?
+Developers are people who create things. They are capable of bringing an idea to life. They are able to solve a problem that exists. They are able to think logically and creatively to solve a problem. They are able to work whereever they want so long as there is internet. They have flexible careers. They range in doing many different things. To challenge these thoughts we can always make an effort to go talk to someone in the field and question them about what a day int heir life looks like. Or read about blog posts/articles. You could even pick up internships to see what developers actually do.
+
+5. Prototype -- start creating solutions
+
+What is the basic threshold that your new career must meet after Turing? What would you hope WILL NOT happen in your future after Turing? What is your absolute, no-holds-barred, ideal dream for your future after Turing?
+The most basic thing that I want to take away from turing is a job in the coding spectrum that pays at least 60-70k/year. I am not too picky about what thay first job looks like. However, after that exposure for a year, my goal is to figure out what I like and do not like about that instance of a job in software development and then go from there to find another that suits me more. I do not hope that I won't be able to find a job, or a job that has a touch of coding and is mainly focused on something else(i.e. a consulting role). The ultimate ideal dream job after turing is to be able to work with a company that is developing an AI to solve some problem that currently exists in this world.
+
+5. Test –- solutions
+
+Based on this week of reflections, write out your initial vision statement for your career: Let's make sure we get a job that has a lot of hands on coding experience that could help expose me to a career as a software developer and helps me learn more about where I want to take this new journey.
