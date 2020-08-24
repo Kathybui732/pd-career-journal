@@ -1,9 +1,5 @@
 # Mod 3 Week 1: Professional Storytelling II: Resumes & Portfolios
 
-Answer the below questions in a separate gist and link them into your career journal using this template:
-
-Week 1: [Link here to your gist]
-
 **completed**
 
 ##Refine your career vision:
@@ -29,6 +25,7 @@ Authorize it with either LinkedIn or GitHub
 Fill out the fields with your Name and Email and the promo code Turing2005
 Upload your resume
 Based on the feedback you received from CV Compiler, what updates will you make to your resume?
+I need more keywords in my resume. I also need to fix the tense of writing.
 
 ##Set up your Turing Alumni Portfolio:
 Log in with the link you got in your email. Going forward, log in at alumni.turing.io/user
@@ -37,6 +34,8 @@ Select “publish” before saving (projects must also have “published” sele
 
 ##Reflection questions:
 What do you want this portfolio to say about you?
-How will you continue to add to this to portray your story and showcase the kind of work that demonstrates your brand?\
+I want my portfolio to describe my skills while highlighting my goals and aspirations as a software developer.
+How will you continue to add to this to portray your story and showcase the kind of work that demonstrates your brand?
+As I grow as a software developer, I will develop a clearer vision of my capabilities and how I can apply those to the tech industry. I can slowly refine my vision week by week.
 Ian’s workshop this week is designed to help you break down your interest in specific industries even further by exploring their tech stacks to decide if you want to utilize any of their tools in upcoming projects. Make a copy of his [template](Company Research Worksheet -- Ian's Main Copy - Google Sheets) here and post a link to your copy here to show what research you’ve completed. You can also link this research to your Huntr board.
-Mod 3 Week 2: The Application Process
+[Link](https://docs.google.com/spreadsheets/d/1CGZgCAwZW9RqljNO_ZWd_6-5pKhhQY0xFbfhxyG1F2M/edit#gid=0)

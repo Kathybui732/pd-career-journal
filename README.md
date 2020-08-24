@@ -76,7 +76,7 @@ If you will not be able to complete your journal this week, please provide an up
 
 ### Mod 3
 
-Week 1: [Link here to your gist]
+Week 1: [/career_journal/mod_3/week_1.md]
 - [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
