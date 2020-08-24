@@ -2,12 +2,12 @@
 
 **completed**
 
-##Refine your career vision:
+## Refine your career vision:
 What are the values that will drive your job search? What are your goals for your job search? What kind of role do you see yourself pursuing in your job search? Based on your latest version of your career vision, list the top 3-5 industries and companies you’ll pursue in your job search as of right now. Why did you pick these industries/companies? How do they relate to the values and goals you have for yourself in your job search?
 
 My mission in life is to be able to do something that feels fulfilling. I want to be able to feel inspired, passionate and forever curious every day of my life. Whether that is fulfilled by a career or a hobby doesn't matter to me. I want my mind as well as my body to feel happy. I want to be able to create something that the world can use. I want to be able to create something that someone else will value and love. I want to feel comfortable and proud of the things I produce. I want to be able to bring some good into the world and do something that will advance the human society. I want to be able to challenge any notion that a woman of color can't be competitive in a field that predominantly filled with white males.
 
-##Build your resume
+## Build your resume
 What will you emphasize in your resume that directly relates to your targeted industries?
 Pick a template from those listed in the Templates section here
 Order your content in this way:
@@ -27,12 +27,12 @@ Upload your resume
 Based on the feedback you received from CV Compiler, what updates will you make to your resume?
 I need more keywords in my resume. I also need to fix the tense of writing.
 
-##Set up your Turing Alumni Portfolio:
+## Set up your Turing Alumni Portfolio:
 Log in with the link you got in your email. Going forward, log in at alumni.turing.io/user
 Fill out all fields
 Select “publish” before saving (projects must also have “published” selected)
 
-##Reflection questions:
+## Reflection questions:
 What do you want this portfolio to say about you?
 I want my portfolio to describe my skills while highlighting my goals and aspirations as a software developer.
 How will you continue to add to this to portray your story and showcase the kind of work that demonstrates your brand?
