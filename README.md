@@ -85,8 +85,8 @@ If you will not be able to complete your journal this week, please provide an up
 
 Week 2: [Link here to your gist]
 - [ ] (completed)
-- [X] (partially complete) Will complete by noon thursday 9/3
-- [ ] (not started)
+- [ ] (partially complete)
+- [x] (not started) Will complete by noon thursday 9/3
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
