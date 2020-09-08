@@ -91,8 +91,8 @@ Week 2: [Link here to your gist]
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
 Week 3: [Link here to your gist]
-- [ ] (completed)
-- [X] (partially complete)
+- [X] (completed)
+- [ ] (partially complete)
 - [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
