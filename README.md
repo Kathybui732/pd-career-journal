@@ -84,14 +84,14 @@ Week 1: [link](/career_journal/mod_3/week_1.md)
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
 Week 2: [Link here to your gist]
-- [ ] (completed)
+- [X] (completed)
 - [ ] (partially complete)
-- [x] (not started) Will complete by noon thursday 9/3
+- [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
 Week 3: [Link here to your gist]
-- [ ] (completed)
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
