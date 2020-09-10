@@ -3,6 +3,8 @@
 1. Find a position or use a position you've put on your Huntr board and write a cover letter for that position in a Google doc or gist. Reference these [cover letter resources](https://github.com/turingschool/career-development-curriculum-site/blob/master/resources/cover_letter_resources.md) as well as [the session](https://careerdev.turing.io/module_three/week_2_application_process) to complete your cover letter.
 * Post the link to your cover letter here
 
+[link](/cover_letters/hotel_engine.md)
+
 2. Review your cover letter with a peer some time this week. What feedback did your partner give you? What next steps will you take to make your cover letter even stronger?
 My partner said that I needed to talk more about myself and how I would be a good fit for the company rather than just praising the company itself. I talked about the projects, but, I could also explain how my past work experience would be a fit for their company.
 
