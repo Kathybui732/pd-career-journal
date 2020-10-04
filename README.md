@@ -111,6 +111,8 @@ Week 5: [link](/career_journal/mod_3/week_5.md)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
+### Intermission work: [link](/career_journal/mod_3/week_5.md)
+
 ### Mod 4
 
 Week 1: [Link here to your gist]
